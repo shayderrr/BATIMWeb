@@ -14,6 +14,7 @@ If you use this on your own website/thing pls credit me!
 
 # Known Issues
 - Lag spikes in CH1
+- Audio bugs in CH2
 - Lag (not a lot of it but still)
 - Minor shader Issues
 
